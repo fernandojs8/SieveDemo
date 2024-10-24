@@ -1,0 +1,6 @@
+@SieveDemo_HostAddress = http://localhost:5276
+
+GET {{SieveDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
